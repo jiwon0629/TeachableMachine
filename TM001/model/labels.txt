@@ -1,0 +1,4 @@
+0 human
+1 doggy
+2 plane
+3 plant
