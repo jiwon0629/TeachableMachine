@@ -23,6 +23,14 @@ T/M에서 만든 모델을 이용해 PyQT로 GUI프로그램 만들기
   6.0 터미널 열기 (S⁭hift+Ctrl+~)   
 5. PyQT를 이용해서 GUI APP을 완성  
   
-Teachable Machine URL : https://teachablemachine.withgoogle.com/
+Teachable Machine URL : https://teachablemachine.withgoogle.com/  
+
+## TM001
+![1](https://github.com/jiwon0629/webApp02/assets/149983498/3fb54c33-3471-410b-99d9-567bf0ce46a9)  
+
+
+## TM002
+![2](https://github.com/jiwon0629/webApp02/assets/149983498/db1309af-3a71-4743-b365-b95f5efa1d5c)
+
 
 
