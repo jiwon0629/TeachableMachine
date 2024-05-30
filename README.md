@@ -21,6 +21,8 @@ T/M에서 만든 모델을 이용해 PyQT로 GUI프로그램 만들기
   4.0 가상환경 만들기 conda create -n python=3.9   
   5.0 가상환경과 VS코드 연결(Sift+Ctrl+P)    
   6.0 터미널 열기 (S⁭hift+Ctrl+~)   
-5. PyQT를 이용해서 GUI APP을 완성
+5. PyQT를 이용해서 GUI APP을 완성  
+  
+Teachable Machine URL : https://teachablemachine.withgoogle.com/
 
 
