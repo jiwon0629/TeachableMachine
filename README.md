@@ -1,4 +1,4 @@
-# DataSet001
+# TeachableMachine
 T/M에서 만든 모델을 이용해 PyQT로 GUI프로그램 만들기
 
 # 프로그램에 대한 설명
