@@ -5,7 +5,9 @@ T/M에서 만든 모델을 이용해 PyQT로 GUI프로그램 만들기
 프로그램은 카메라를 사용하지 않습니다.   
 3가지 Class를 식별합니다.
 
-## Language
+## Language  
+ - <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="57" height="57" /></div>  
+
 <a href="링크"><img src="https://camo.githubusercontent.com/566dd742bff65d026219bbbc87c93c6b4ee3f20d92019dc38d194102fc44ddde/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e266c6f676f436f6c6f723d7768697465"/></a>
 
 ## 프로그램 과정
